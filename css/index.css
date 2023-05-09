@@ -178,7 +178,6 @@ button {
   padding: 102px 230px;
   display: flex;
   flex-direction: column;
-  border: solid 1px red;
 
   @media only screen and (max-width: 768px) {
     flex-direction: column;
@@ -200,7 +199,6 @@ button {
 
 .my-work-container {
   display: flex;
-  border: solid blue;
   padding: 0 40px;
 
   @media only screen and (max-width: 768px) {
@@ -217,7 +215,6 @@ button {
   color: #ffffff;
   margin: auto;
   margin-bottom: 40px;
-  border: solid green;
 }
 
 .my-ux-skills-heading {
@@ -229,11 +226,6 @@ button {
   color: black;
   margin: auto;
   margin-bottom: 40px;
-  border: solid green;
-}
-
-.my-work-item {
-  border: solid orange;
 }
 
 .my-work-subheading {
